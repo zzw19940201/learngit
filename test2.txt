@@ -1,0 +1,10 @@
+06b813e33106e89ac1fa0f039c09de0afce18a53 (HEAD -> master) create file test.txt
+34600723a02b0c9994547ad47c1e9d319d2c5752 My stupid boss still prefers SVN.
+4be67ab6aaac717888653e69446debd359b0154d Git tracks changes  of files
+97c08a60a2d16af68f7647e9278a951938b53d22 git tracks changes
+1d6a944ae89e7d5ddfbfcd08dc6d6f0b1b63f02e understand how stage works
+f69bf8ce679fdf47b482a1534d98c348afe13f9f append GPL
+677fe3c8298fa998ad81efaa48006b5b54d2bcd5 remove distributed
+7e54e95b076620c445bdf20f6d9978a12a69ac58 add distributed
+0f14bc33e5dc7279cd67bcc7601c64edf604b538 write a readme file
+
