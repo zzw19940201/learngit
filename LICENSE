@@ -1,0 +1,5 @@
+  工作区：Working Directory，就是可以在电脑上看到的目录，比如之前创建的learngit就是工作区。
+    版本库：Repository，工作区有一个隐藏目录“.git”，这个就是版本库
+    	版本库中的stage（或者是index）就是暂存区，
+    	master，git自动创建的第一个分支
+    	HEAD，执行master的指针
